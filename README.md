@@ -1,2 +1,2 @@
 # Hello-word
-Magma programas para ABT
+Magma programas para el paper Skew Resultants ABT
